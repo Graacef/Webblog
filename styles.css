@@ -1,0 +1,13 @@
+/* Image Styling */
+.image-container {
+    text-align: center; /* Center images */
+    margin-bottom: 20px; /* Add spacing between images and text */
+}
+
+.image-container img {
+    width: 90%; /* Adjust image width for responsiveness */
+    max-width: 800px; /* Set a max width */
+    margin: 10px auto; /* Add spacing */
+    border-radius: 10px; /* Rounded corners */
+    border: 5px solid #FF6F61; /* Consistent border color */
+}
